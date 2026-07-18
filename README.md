@@ -1,68 +1,47 @@
 # Hi, I'm Innocent Mbele 👋
 
-Network & Telecommunications Engineer with hands-on experience in enterprise networking, Linux administration and cloud infrastructure. I'm currently building practical cloud engineering projects across Azure, Linux and AWS.
+Network & Telecommunications Engineer building practical Cloud, Linux and Networking projects.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### ☁️ Azure Cloud Labs
-Hands-on Microsoft Azure projects covering virtual networking, virtual machines, network security, load balancing and cloud infrastructure.
+## ☁️ Azure Cloud Labs
 
-➡️ **Repository:** https://github.com/innocent-mbele/azure-cloud-labs
+Hands-on Azure projects covering networking, virtual machines, security and cloud infrastructure.
 
----
-
-### 🐧 Linux Projects
-Practical Linux administration projects including server deployment, user and group management, SSH, networking, automation and security.
-
-➡️ **Repository:** https://github.com/innocent-mbele/linux-projects
+👉 **Click here to explore my Azure Projects:**  
+https://github.com/innocent-mbele/azure-cloud-labs
 
 ---
 
-### ☁️ AWS Cloud Labs
-Hands-on AWS infrastructure projects covering networking, compute, storage, IAM and cloud services.
+## 🐧 Linux Projects
 
-➡️ **Repository:** https://github.com/innocent-mbele/aws-cloud-labs
+Hands-on Linux administration projects covering server deployment, SSH, user management, networking and automation.
+
+👉 **Click here to explore my Linux Projects:**  
+https://github.com/innocent-mbele/linux-projects
 
 ---
 
-## 🛠️ Technical Skills
+## ☁️ AWS Cloud Labs
 
-### Cloud
-- Microsoft Azure
-- Amazon Web Services (AWS)
+AWS infrastructure projects covering VPC, EC2, IAM, storage and cloud networking.
 
-### Linux
-- Ubuntu
+👉 **Click here to explore my AWS Projects:**  
+https://github.com/innocent-mbele/aws-cloud-labs
+
+---
+
+## 🛠 Technical Skills
+
+- Azure
+- AWS
+- Linux
+- Cisco Networking
 - Bash
-- SSH
-- User & Group Management
-- Linux Networking
-
-### Networking
-- Cisco Routing & Switching
-- TCP/IP
-- VLANs
-- OSPF
-- Network Security
-
-### Automation
-- Bash
-- Python *(Learning)*
-- Ansible *(Learning)*
-- Terraform *(Learning)*
-
----
-
-## 📚 Currently Learning
-
-- Azure Administrator (AZ-104)
-- Linux Administration
-- Docker
-- Kubernetes
-- AWS Solutions Architect Associate
-
----
-
-⭐ Thanks for visiting my GitHub profile!
+- Python (Learning)
+- Docker (Learning)
+- Kubernetes (Learning)
+- Terraform (Learning)
+- Ansible (Learning)
