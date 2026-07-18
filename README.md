@@ -1,6 +1,8 @@
 # Hi, I'm Innocent Mbele 👋
 
-Network & Telecommunications Engineer building practical Cloud, Linux and Networking projects.
+**Network & Telecommunications Engineer** focused on Cloud Infrastructure, Linux Administration and Enterprise Networking.
+
+I build practical, hands-on projects to strengthen real-world skills in Azure, AWS, Linux and network engineering.
 
 ---
 
@@ -8,40 +10,65 @@ Network & Telecommunications Engineer building practical Cloud, Linux and Networ
 
 ## ☁️ Azure Cloud Labs
 
-Hands-on Azure projects covering networking, virtual machines, security and cloud infrastructure.
+Real-world Microsoft Azure projects covering virtual networking, virtual machines, load balancing, network security and cloud infrastructure.
 
-👉 **Click here to explore my Azure Projects:**  
+👉 **Explore my Azure Cloud Projects:**  
 https://github.com/innocent-mbele/azure-cloud-labs
 
 ---
 
 ## 🐧 Linux Projects
 
-Hands-on Linux administration projects covering server deployment, SSH, user management, networking and automation.
+Practical Linux administration projects covering server deployment, user and group management, SSH, networking, automation and system administration.
 
-👉 **Click here to explore my Linux Projects:**  
+👉 **Explore my Linux Projects:**  
 https://github.com/innocent-mbele/linux-projects
 
 ---
 
 ## ☁️ AWS Cloud Labs
 
-AWS infrastructure projects covering VPC, EC2, IAM, storage and cloud networking.
+Hands-on AWS projects covering VPC, EC2, IAM, storage, networking and cloud infrastructure.
 
-👉 **Click here to explore my AWS Projects:**  
+👉 **Explore my AWS Cloud Projects:**  
 https://github.com/innocent-mbele/aws-cloud-labs
 
 ---
 
-## 🛠 Technical Skills
+# 🛠 Technical Skills
 
-- Azure
-- AWS
-- Linux
-- Cisco Networking
+### Cloud
+- Microsoft Azure
+- Amazon Web Services (AWS)
+
+### Operating Systems
+- Linux (Ubuntu)
+
+### Networking
+- Cisco Routing & Switching
+- TCP/IP
+- VLANs
+- VPN
+- Network Security
+
+### Automation
 - Bash
-- Python (Learning)
-- Docker (Learning)
-- Kubernetes (Learning)
-- Terraform (Learning)
-- Ansible (Learning)
+- Python *(Learning)*
+- Docker *(Learning)*
+- Kubernetes *(Learning)*
+- Terraform *(Learning)*
+- Ansible *(Learning)*
+
+---
+
+## 📈 Currently Building
+
+- Linux Administration Projects
+- Microsoft Azure Cloud Labs
+- AWS Cloud Labs
+- Network Automation
+- DevOps Skills
+
+---
+
+⭐ **More projects are added regularly as I continue building my cloud and infrastructure portfolio.**
