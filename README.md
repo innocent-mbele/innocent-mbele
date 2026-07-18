@@ -1,8 +1,8 @@
 # Hi, I'm Innocent Mbele 👋
 
-**Network & Telecommunications Engineer** focused on Cloud Infrastructure, Linux Administration and Enterprise Networking.
+**Network & Telecommunications Engineer** specializing in Enterprise Networking, Cloud Infrastructure and Linux Administration.
 
-I build practical, hands-on projects to strengthen real-world skills in Azure, AWS, Linux and network engineering.
+I build practical, hands-on projects across Microsoft Azure, AWS, Linux and enterprise networking to demonstrate real-world infrastructure and cloud engineering skills.
 
 ---
 
@@ -10,7 +10,7 @@ I build practical, hands-on projects to strengthen real-world skills in Azure, A
 
 ## ☁️ Azure Cloud Labs
 
-Real-world Microsoft Azure projects covering virtual networking, virtual machines, load balancing, network security and cloud infrastructure.
+Hands-on Microsoft Azure projects covering virtual networking, virtual machines, load balancing, network security and cloud infrastructure.
 
 👉 **Explore my Azure Cloud Projects:**  
 https://github.com/innocent-mbele/azure-cloud-labs
@@ -43,15 +43,18 @@ https://github.com/innocent-mbele/aws-cloud-labs
 
 ### Operating Systems
 - Linux (Ubuntu)
+- Windows
 
 ### Networking
 - Cisco Routing & Switching
 - TCP/IP
 - VLANs
+- DHCP
+- DNS
 - VPN
 - Network Security
 
-### Automation
+### Automation & DevOps
 - Bash
 - Python *(Learning)*
 - Docker *(Learning)*
@@ -67,8 +70,8 @@ https://github.com/innocent-mbele/aws-cloud-labs
 - Microsoft Azure Cloud Labs
 - AWS Cloud Labs
 - Network Automation
-- DevOps Skills
+- DevOps Engineering Skills
 
 ---
 
-⭐ **More projects are added regularly as I continue building my cloud and infrastructure portfolio.**
+⭐ **New projects are added regularly as I continue expanding my cloud, Linux and networking portfolio.**
