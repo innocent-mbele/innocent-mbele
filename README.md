@@ -33,35 +33,6 @@ https://github.com/innocent-mbele/aws-cloud-labs
 
 ---
 
-# 🛠 Technical Skills
-
-### Cloud
-- Microsoft Azure
-- Amazon Web Services (AWS)
-
-### Operating Systems
-- Linux (Ubuntu)
-- Windows
-
-### Networking
-- Cisco Routing & Switching
-- TCP/IP
-- VLANs
-- DHCP
-- DNS
-- VPN
-- Network Security
-
-### Automation & DevOps
-- Bash
-- Python *(Learning)*
-- Docker *(Learning)*
-- Kubernetes *(Learning)*
-- Terraform *(Learning)*
-- Ansible *(Learning)*
-
----
-
 ## 📈 Currently Building
 
 - Linux Administration Projects
