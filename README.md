@@ -1,4 +1,4 @@
-# Hi, I'm Innocent Mbele 👋
+# Hi 👋, I'm Innocent Mbele 
 
 **Network & Telecommunications Engineer** specializing in Enterprise Networking, Cloud Infrastructure and Linux Administration. I build practical, hands-on projects across Microsoft Azure, AWS, Linux and enterprise networking to demonstrate real-world infrastructure and cloud engineering skills
 
