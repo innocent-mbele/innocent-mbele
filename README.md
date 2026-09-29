@@ -1,46 +1,75 @@
 # Hi, I'm Innocent Mbele 👋
 
-**Network & Telecommunications Engineer** specializing in Enterprise Networking, Cloud Infrastructure and Linux Administration. I build practical, hands-on projects across Microsoft Azure, AWS, Linux and enterprise networking to demonstrate real-world infrastructure and cloud engineering skills
+**Network & Telecommunications Engineer** focused on Enterprise Networking, Cloud Infrastructure, Linux Administration and Network Automation.
+
+I build practical infrastructure and automation projects across Azure, AWS, Linux and networking technologies to demonstrate real-world engineering skills.
 
 ---
 
 # 🚀 Featured Projects
 
+## ☁️ Azure Hub-and-Spoke Terraform
+
+Infrastructure-as-Code project deploying an Azure hub-and-spoke network using Terraform, with network security, routing and private infrastructure.
+
+👉 **Explore:** `azure-hub-spoke-terraform`
+
+---
+
+## 🌐 Network Automation
+
+Python, Ansible and network automation projects focused on automating network configuration, backups, APIs and infrastructure operations.
+
+👉 **Explore:** `network-automation`
+
+---
+
 ## ☁️ Azure Cloud Labs
 
-Hands-on Microsoft Azure projects covering virtual networking, virtual machines, load balancing, network security and cloud infrastructure.
+Practical Azure networking and infrastructure projects covering VNets, virtual machines, security, load balancing and cloud networking.
 
-👉 **Explore my Azure Cloud Projects:**  
-https://github.com/innocent-mbele/azure-cloud-labs
+👉 **Explore:** `azure-cloud-labs`
 
 ---
 
 ## 🐧 Linux Projects
 
-Practical Linux administration projects covering server deployment, user and group management, SSH, networking, automation and system administration.
+Practical Linux administration projects covering server deployment, users and groups, SSH, networking, DNS, DHCP, security, automation and system administration.
 
-👉 **Explore my Linux Projects:**  
-https://github.com/innocent-mbele/linux-projects
+👉 **Explore:** `linux-projects`
 
 ---
 
 ## ☁️ AWS Cloud Labs
 
-Hands-on AWS projects covering VPC, EC2, IAM, storage, networking and cloud infrastructure.
+Practical AWS projects covering VPC, EC2, IAM, storage, networking and cloud infrastructure.
 
-👉 **Explore my AWS Cloud Projects:**  
-https://github.com/innocent-mbele/aws-cloud-labs
+👉 **Explore:** `aws-cloud-labs`
 
 ---
 
-## 📈 Currently Building
+# 🛠️ Technologies
+
+- Linux
+- Microsoft Azure
+- AWS
+- Cisco Networking
+- Python
+- Ansible
+- Terraform
+- Docker
+- Git & GitHub
+
+---
+
+# 📈 Currently Building
 
 - Linux Administration Projects
-- Microsoft Azure Cloud Labs
-- AWS Cloud Labs
-- Network Automation
-- DevOps Engineering Skills
+- Network Automation with Python and Ansible
+- Azure Infrastructure with Terraform
+- Cloud Infrastructure Projects
+- DevOps and Automation Skills
 
 ---
 
-⭐ **New projects are added regularly as I continue expanding my cloud, Linux and networking portfolio.**
+⭐ **I continuously build and document practical infrastructure projects to grow my cloud, networking, Linux and automation portfolio.**
