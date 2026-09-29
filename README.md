@@ -12,7 +12,7 @@ I build practical infrastructure and automation projects across Azure, AWS, Linu
 
 Practical Azure networking and infrastructure projects covering VNets, virtual machines, security, load balancing and cloud networking.
 
-### 👉 **[CLICK AND VIEW AZURE CLOUD PROJECTS](https://github.com/innocent-mbele/azure-cloud-labs)**
+👉 **[Click and View Azure Cloud Projects](https://github.com/innocent-mbele/azure-cloud-labs)**
 
 ---
 
@@ -20,7 +20,7 @@ Practical Azure networking and infrastructure projects covering VNets, virtual m
 
 Practical Linux administration projects covering server deployment, users and groups, SSH, networking, DNS, DHCP, security, automation and system administration.
 
-### 👉 **[CLICK AND VIEW LINUX PROJECTS](https://github.com/innocent-mbele/linux-projects)**
+👉 **[Click and View Linux Projects](https://github.com/innocent-mbele/linux-projects)**
 
 ---
 
@@ -28,7 +28,7 @@ Practical Linux administration projects covering server deployment, users and gr
 
 Practical AWS projects covering VPC, EC2, IAM, storage, networking and cloud infrastructure.
 
-### 👉 **[CLICK AND VIEW AWS CLOUD PROJECTS](https://github.com/innocent-mbele/aws-cloud-labs)**
+👉 **[Click and View AWS Cloud Projects](https://github.com/innocent-mbele/aws-cloud-labs)**
 
 ---
 
@@ -36,7 +36,7 @@ Practical AWS projects covering VPC, EC2, IAM, storage, networking and cloud inf
 
 Python, Ansible and network automation projects focused on automating network configuration, backups, APIs and infrastructure operations.
 
-### 🚧 **CURRENTLY BUILDING**
+🚧 **Currently Building**
 
 ---
 
@@ -44,7 +44,7 @@ Python, Ansible and network automation projects focused on automating network co
 
 Infrastructure-as-Code project focused on deploying and managing Azure network infrastructure using Terraform.
 
-### 🚧 **PLANNED PROJECT**
+🚧 **Planned Project**
 
 ---
 
