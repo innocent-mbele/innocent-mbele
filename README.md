@@ -8,43 +8,33 @@ I build practical infrastructure and automation projects across Azure, AWS, Linu
 
 # 🚀 Featured Projects
 
-## ☁️ Azure Hub-and-Spoke Terraform
+## ☁️ [Azure Hub-and-Spoke Terraform](https://github.com/innocent-mbele/azure-hub-spoke-terraform)
 
 Infrastructure-as-Code project deploying an Azure hub-and-spoke network using Terraform, with network security, routing and private infrastructure.
 
-👉 **Explore:** `azure-hub-spoke-terraform`
-
 ---
 
-## 🌐 Network Automation
+## 🌐 [Network Automation](https://github.com/innocent-mbele/network-automation)
 
 Python, Ansible and network automation projects focused on automating network configuration, backups, APIs and infrastructure operations.
 
-👉 **Explore:** `network-automation`
-
 ---
 
-## ☁️ Azure Cloud Labs
+## ☁️ [Azure Cloud Labs](https://github.com/innocent-mbele/azure-cloud-labs)
 
 Practical Azure networking and infrastructure projects covering VNets, virtual machines, security, load balancing and cloud networking.
 
-👉 **Explore:** `azure-cloud-labs`
-
 ---
 
-## 🐧 Linux Projects
+## 🐧 [Linux Projects](https://github.com/innocent-mbele/linux-projects)
 
 Practical Linux administration projects covering server deployment, users and groups, SSH, networking, DNS, DHCP, security, automation and system administration.
 
-👉 **Explore:** `linux-projects`
-
 ---
 
-## ☁️ AWS Cloud Labs
+## ☁️ [AWS Cloud Labs](https://github.com/innocent-mbele/aws-cloud-labs)
 
 Practical AWS projects covering VPC, EC2, IAM, storage, networking and cloud infrastructure.
-
-👉 **Explore:** `aws-cloud-labs`
 
 ---
 
