@@ -1,8 +1,6 @@
 # Hi, I'm Innocent Mbele 👋
 
-**Network & Telecommunications Engineer** focused on Enterprise Networking, Cloud Infrastructure, Linux Administration and Network Automation.
-
-I build practical infrastructure and automation projects across Azure, AWS, Linux and networking technologies to demonstrate real-world engineering skills.
+**Network & Telecommunications Engineer** focused on Enterprise Networking, Cloud Infrastructure, Linux Administration and Network Automation. Building practical infrastructure and automation projects across Azure, AWS, Linux and networking technologies to demonstrate real-world engineering skills.
 
 ---
 
@@ -13,22 +11,6 @@ I build practical infrastructure and automation projects across Azure, AWS, Linu
 Practical Azure networking and infrastructure projects covering VNets, virtual machines, security, load balancing and cloud networking.
 
 👉 **[Click and View Azure Cloud Projects](https://github.com/innocent-mbele/azure-cloud-labs)**
-
----
-
-## 🏗️ [Azure Hub-and-Spoke Terraform](https://github.com/innocent-mbele/azure-hub-spoke-terraform)
-
-Infrastructure-as-Code project focused on designing and managing Azure hub-and-spoke network infrastructure using Terraform.
-
-👉 **[Click and View Azure Hub-and-Spoke Project](https://github.com/innocent-mbele/azure-hub-spoke-terraform)**
-
----
-
-## 🌐 [Network Automation](https://github.com/innocent-mbele/network-automation)
-
-Network automation projects using Python, Ansible and network APIs to automate configuration, backups and infrastructure operations.
-
-👉 **[Click and View Network Automation Projects](https://github.com/innocent-mbele/network-automation)**
 
 ---
 
@@ -45,6 +27,22 @@ Practical Linux administration projects covering server deployment, users and gr
 Practical AWS projects covering VPC, EC2, IAM, storage, networking and cloud infrastructure.
 
 👉 **[Click and View AWS Cloud Projects](https://github.com/innocent-mbele/aws-cloud-labs)**
+
+---
+
+## 🏗️ [Azure Hub-and-Spoke Terraform](https://github.com/innocent-mbele/azure-hub-spoke-terraform)
+
+Infrastructure-as-Code project focused on designing and managing Azure hub-and-spoke network infrastructure using Terraform.
+
+👉 **[Click and View Azure Hub-and-Spoke Project](https://github.com/innocent-mbele/azure-hub-spoke-terraform)**
+
+---
+
+## 🌐 [Network Automation](https://github.com/innocent-mbele/network-automation)
+
+Network automation projects using Python, Ansible and network APIs to automate configuration, backups and infrastructure operations.
+
+👉 **[Click and View Network Automation Projects](https://github.com/innocent-mbele/network-automation)**
 
 ---
 
