@@ -16,6 +16,22 @@ Practical Azure networking and infrastructure projects covering VNets, virtual m
 
 ---
 
+## 🏗️ [Azure Hub-and-Spoke Terraform](https://github.com/innocent-mbele/azure-hub-spoke-terraform)
+
+Infrastructure-as-Code project focused on designing and managing Azure hub-and-spoke network infrastructure using Terraform.
+
+👉 **[Click and View Azure Hub-and-Spoke Project](https://github.com/innocent-mbele/azure-hub-spoke-terraform)**
+
+---
+
+## 🌐 [Network Automation](https://github.com/innocent-mbele/network-automation)
+
+Network automation projects using Python, Ansible and network APIs to automate configuration, backups and infrastructure operations.
+
+👉 **[Click and View Network Automation Projects](https://github.com/innocent-mbele/network-automation)**
+
+---
+
 ## 🐧 [Linux Projects](https://github.com/innocent-mbele/linux-projects)
 
 Practical Linux administration projects covering server deployment, users and groups, SSH, networking, DNS, DHCP, security, automation and system administration.
@@ -29,22 +45,6 @@ Practical Linux administration projects covering server deployment, users and gr
 Practical AWS projects covering VPC, EC2, IAM, storage, networking and cloud infrastructure.
 
 👉 **[Click and View AWS Cloud Projects](https://github.com/innocent-mbele/aws-cloud-labs)**
-
----
-
-## 🌐 Network Automation
-
-Python, Ansible and network automation projects focused on automating network configuration, backups, APIs and infrastructure operations.
-
-🚧 **Currently Building**
-
----
-
-## 🏗️ Azure Hub-and-Spoke with Terraform
-
-Infrastructure-as-Code project focused on deploying and managing Azure network infrastructure using Terraform.
-
-🚧 **Planned Project**
 
 ---
 
