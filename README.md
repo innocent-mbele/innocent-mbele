@@ -22,6 +22,13 @@ Practical Linux administration projects covering server deployment, users and gr
 
 ---
 
+## 🌐 [Network Infrastructure and Automation](https://github.com/innocent-mbele/network-infrastructure-and-automation)
+
+Network automation projects using Python, Ansible and network APIs to automate configuration, backups and infrastructure operations.
+
+👉 **[Click and View Network Automation Projects](https://github.com/innocent-mbele/network-infrastructure-and-automation)**
+
+---
 
 # 🛠️ Technologies
 
