@@ -6,6 +6,14 @@
 
 # 🚀 Projects
 
+## ☁️ [Azure Administrator Labs](https://github.com/innocent-mbele/azure-administrator-labs)
+
+Practical Azure networking and infrastructure projects covering VNets, virtual machines, security, load balancing and cloud networking.
+
+👉 **[Click and View Azure Administrator Labs](https://github.com/innocent-mbele/azure-administrator-labs)**
+
+---
+
 ## ☁️ [Azure Cloud Labs](https://github.com/innocent-mbele/azure-cloud-labs)
 
 Practical Azure networking and infrastructure projects covering VNets, virtual machines, security, load balancing and cloud networking.
@@ -34,7 +42,7 @@ Network automation projects using Python, Ansible and network APIs to automate c
 
 - Linux
 - Microsoft Azure
-- AWS
+- Azure
 - Cisco Networking
 - Python
 - Ansible
