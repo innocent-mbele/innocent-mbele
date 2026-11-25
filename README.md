@@ -1,12 +1,12 @@
-# Hi, I'm Innocent  👋
+## Hi, I'm Innocent  👋
 
 **a Network & Telecommunications Engineer** focused on Enterprise Networking, Cloud Infrastructure, Linux Administration and Network Automation. Building practical infrastructure and automation projects across Azure, AWS, Linux and networking technologies to demonstrate real-world engineering skills.
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
-## ☁️ [Azure Administrator Labs](https://github.com/innocent-mbele/azure-administrator-labs)
+### ☁️ [Azure Administrator Labs](https://github.com/innocent-mbele/azure-administrator-labs)
 
 Practical Azure networking and infrastructure projects covering VNets, virtual machines, security, load balancing and cloud networking.
 
@@ -14,7 +14,7 @@ Practical Azure networking and infrastructure projects covering VNets, virtual m
 
 ---
 
-## ☁️ [Azure Cloud Labs](https://github.com/innocent-mbele/azure-cloud-labs)
+### ☁️ [Azure Cloud Labs](https://github.com/innocent-mbele/azure-cloud-labs)
 
 Practical Azure networking and infrastructure projects covering VNets, virtual machines, security, load balancing and cloud networking.
 
@@ -22,7 +22,7 @@ Practical Azure networking and infrastructure projects covering VNets, virtual m
 
 ---
 
-## 🐧 [Linux Projects](https://github.com/innocent-mbele/linux-projects)
+### 🐧 [Linux Projects](https://github.com/innocent-mbele/linux-projects)
 
 Practical Linux administration projects covering server deployment, users and groups, SSH, networking, DNS, DHCP, security, automation and system administration.
 
@@ -30,7 +30,7 @@ Practical Linux administration projects covering server deployment, users and gr
 
 ---
 
-## 🌐 [Network Infrastructure and Automation](https://github.com/innocent-mbele/network-infrastructure-and-automation)
+### 🌐 [Network Infrastructure and Automation](https://github.com/innocent-mbele/network-infrastructure-and-automation)
 
 Network automation projects using Python, Ansible and network APIs to automate configuration, backups and infrastructure operations.
 
@@ -38,7 +38,7 @@ Network automation projects using Python, Ansible and network APIs to automate c
 
 ---
 
-# 🛠️ Technologies
+### 🛠️ Technologies
 
 - Linux
 - Microsoft Azure
@@ -52,7 +52,7 @@ Network automation projects using Python, Ansible and network APIs to automate c
 
 ---
 
-# 📈 Currently Building
+### 📈 Currently Building
 
 - Linux Administration Projects
 - Network Automation with Python and Ansible
@@ -62,7 +62,7 @@ Network automation projects using Python, Ansible and network APIs to automate c
 
 ---
 
-# 🎯 Focus
+### 🎯 Focus
 
 - Enterprise Networking
 - Cloud Infrastructure
