@@ -1,8 +1,4 @@
-# Hi, I'm Innocent Mbele 👋
-
-### 🌐 Portfolio: **[innocent-mbele.github.io](https://innocent-mbele.github.io)**
-
-Documented Azure, Linux and network automation projects with screenshots and verification evidence.
+# Hi, I'm Innocent  👋
 
 **Network & Telecommunications Engineer** focused on Enterprise Networking, Cloud Infrastructure, Linux Administration and Network Automation. Building practical infrastructure and automation projects across Azure, AWS, Linux and networking technologies to demonstrate real-world engineering skills.
 
