@@ -1,6 +1,6 @@
 ## Hi, I'm Innocent  👋
 
-**a Network & Telecommunications Engineer** focused on Enterprise Networking, Cloud Infrastructure, Linux Administration and Network Automation. Building practical infrastructure and automation projects across Azure, AWS, Linux and networking technologies to demonstrate real-world engineering skills.
+A Network & Telecommunications Engineer focused on Enterprise Networking, Cloud Infrastructure, Linux Administration and Network Automation. Building practical infrastructure and automation projects across Azure, AWS, Linux and networking technologies to demonstrate real-world engineering skills.
 
 ---
 
